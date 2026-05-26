@@ -1,0 +1,4 @@
+name = "bingline-api"
+main = "src/index.ts"
+compatibility_date = "2026-05-26"
+
